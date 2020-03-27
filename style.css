@@ -1,0 +1,13 @@
+body {
+	overflow: hidden;
+}
+
+html {
+	background-color: #000000;
+	background-size: cover;
+}
+
+canvas {
+	z-index: 2;
+}
+
